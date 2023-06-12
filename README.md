@@ -1,7 +1,7 @@
-# jobFever-backend
+# jobFever backend
 
 #About the project
-Jobfever is a platform designed to help programmers find their dream job quickly and easily.
+jobfever is a platform designed to help programmers find their dream job quickly and easily.
 The app is addressed to people looking for a job in IT and software companies looking for an employees. 
 
 ![image](https://github.com/MonikaFranczyk/jobFever-backend/assets/102509875/03d8dafe-47ca-4810-a256-fc05c9f84a82)

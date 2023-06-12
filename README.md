@@ -1,6 +1,6 @@
-# jobFever backend
+# JobFever backend
 
-#About the project
+# About the project
 jobfever is a platform designed to help programmers find their dream job quickly and easily.
 The app is addressed to people looking for a job in IT and software companies looking for an employees. 
 
@@ -17,13 +17,12 @@ after deployment we would like to keep our platform totally free.
 
 Main goal of application is build job fever community.
 
-#Backend Technology stack
-
+# Backend Technology stack
 ⭐Java
 ⭐Spring
 ⭐Hibernate
 ⭐PostgreSQL
 ⭐JWT Token
 
-#App demonstration
+# App demonstration
 https://github.com/MonikaFranczyk/jobFever-backend/assets/102509875/f9fb55e6-f3fc-4c40-86f6-5c7005e9eed0
